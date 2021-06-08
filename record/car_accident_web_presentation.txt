@@ -1,0 +1,25 @@
+1.分類   
+
+2.法條   
+
+3.選金額抓   
+
+4.用法說明   
+
+5.server 到 public 網頁   
+
+6.Powerpoint 
+
+
+1.按鈕換字 
+
+2.圖大
+
+3.Data 減小 Speed 增加
+
+4.摘要增加
+
+5.上傳github, deploy again
+
+5.練簡報
+
