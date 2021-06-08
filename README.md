@@ -2,7 +2,7 @@
 Project for the Law Tech Hackathon
 
 ## Introduction
-[The Websiteon Heroku](https://caraccidentapp.herokuapp.com/bokeh_app)  
+[The Website on Heroku](https://caraccidentapp.herokuapp.com/bokeh_app)  
 
 
 The Website Screen Shot  
